@@ -8,6 +8,7 @@ public class tstse {
 		System.out.println("11");//222  2222  4444
 		System.out.println("11");//222  2222   3333 88888
 				System.out.println("11");//222  2222   3333     666666
+				//自己创建的分支编写逻辑666666666666
 	}
 
 }
