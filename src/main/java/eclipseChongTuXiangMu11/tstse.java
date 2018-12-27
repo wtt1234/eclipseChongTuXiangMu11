@@ -6,7 +6,7 @@ public class tstse {
 		// TODO 自动生成的方法存根
 		System.out.println("11");//111
 		System.out.println("11");//222  2222  4444
-		System.out.println("11");//222  2222   3333     77777777
+		System.out.println("11");//222  2222   3333     777777777
 	}
 
 }
